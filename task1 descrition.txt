@@ -1,0 +1,3 @@
+Quote Generator
+Display a random quote from a predefined list of quotes
+used frontend tool-HTML,CSS,Javascript
